@@ -1,0 +1,9 @@
+Punkt{x=60, y=30}
+Kwadrat{dlugosc=20} i dziedzicze od Punkt{x=20, y=20}
+Kolo{promien=20} i dziedzicze od Punkt{x=1, y=30}
+Punkt{x=80, y=40}
+Kwadrat{dlugosc=20} i dziedzicze od Punkt{x=40, y=40}
+Kolo{promien=20} i dziedzicze od Punkt{x=2, y=60}
+Punkt{x=100, y=50}
+Kwadrat{dlugosc=20} i dziedzicze od Punkt{x=60, y=60}
+Kolo{promien=20} i dziedzicze od Punkt{x=3, y=90}
